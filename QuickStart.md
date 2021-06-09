@@ -4,6 +4,8 @@
 
 原文：[Electron - Quick Start](https://www.electronjs.org/docs/tutorial/quick-start#access-nodejs-from-the-renderer-with-a-preload-script)
 
+Hackmd:[連結](https://hackmd.io/@RdUg6kDRTcKHmb2WGCucdA/SyR45_Gqd)
+
 這個章節將會按照步驟用很直白的方式在Electron內去開發一個Hello World App。
 
 在章節的最後，若有按照步驟完成的話，將可以執行一個應用程式版的瀏覽器，上面顯示Chromium、Node.js及Electron版本。
